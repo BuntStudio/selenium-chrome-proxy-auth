@@ -1,0 +1,13 @@
+{
+    "name": "buntstudio/selenium-chrome-proxy-auth",
+    "description": "Chrome extension generator for Proxy with Auth",
+    "type": "library",
+    "require": {
+        "ext-zip": "^1.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "SeleniumChromeProxyAuth\\": "src/"
+        }
+    }
+}

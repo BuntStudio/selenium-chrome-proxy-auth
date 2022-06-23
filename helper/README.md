@@ -1,5 +1,7 @@
 # Selenium Chrome HTTP Private Proxy
 
+From: https://github.com/RobinDev/Selenium-Chrome-HTTP-Private-Proxy
+
 This plugin permit to use proxy with a basic authentication with Chrome and Selenium ([it's impossible](http://docs.seleniumhq.org/docs/04_webdriver_advanced.jsp#using-a-proxy)).
 This trick can be use for all basic auth in your test with Selenium and Chrome.
 
