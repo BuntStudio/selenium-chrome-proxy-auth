@@ -7,7 +7,7 @@ use ZipArchive;
 
 class ExtensionGenerator
 {
-    const HELPER_PATH = __DIR__ . '/helper';
+    const HELPER_PATH = __DIR__ . '/../helper';
     /**
      * @var string
      */
