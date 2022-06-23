@@ -3,7 +3,7 @@
     "description": "Chrome extension generator for Proxy with Auth",
     "type": "library",
     "require": {
-        "ext-zip": "^1.15"
+        "ext-zip": "*"
     },
     "autoload": {
         "psr-4": {
